@@ -1,4 +1,4 @@
 Ini adalah latihan mandiri pertama. 
 saya sedang mencoba memahami git.
 
-coba push
+
